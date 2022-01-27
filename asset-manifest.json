@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react-application/static/css/main.843a1d66.css",
-    "main.js": "/react-application/static/js/main.5e0a2b87.js",
+    "main.css": "/react-application/static/css/main.3d93670b.css",
+    "main.js": "/react-application/static/js/main.496c6cf2.js",
     "index.html": "/react-application/index.html",
     "static/media/search-outline.svg": "/react-application/static/media/search-outline.4be0f579536375deb314ddb02b97de8a.svg",
     "static/media/moon-outline.svg": "/react-application/static/media/moon-outline.ed14e62383eee27a57c447e80da2f840.svg",
     "static/media/moon.svg": "/react-application/static/media/moon.8a83386a51289ce1f0e50588d888d66e.svg",
     "static/media/down-outline.svg": "/react-application/static/media/down-outline.8261387b46a4e157bdf658369adba2ce.svg",
-    "main.843a1d66.css.map": "/react-application/static/css/main.843a1d66.css.map",
-    "main.5e0a2b87.js.map": "/react-application/static/js/main.5e0a2b87.js.map"
+    "main.3d93670b.css.map": "/react-application/static/css/main.3d93670b.css.map",
+    "main.496c6cf2.js.map": "/react-application/static/js/main.496c6cf2.js.map"
   },
   "entrypoints": [
-    "static/css/main.843a1d66.css",
-    "static/js/main.5e0a2b87.js"
+    "static/css/main.3d93670b.css",
+    "static/js/main.496c6cf2.js"
   ]
 }
